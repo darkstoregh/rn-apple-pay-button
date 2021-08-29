@@ -1,5 +1,5 @@
 import * as React from "react";
-import { NativeModules, requireNativeComponent } from "react-native";
+import { requireNativeComponent } from "react-native";
 
 const APButtonComponent = requireNativeComponent("APButton");
 
